@@ -9,6 +9,7 @@
       "surface":280,
       "monthly_rental_cost":400,
       "rating":5.0,
+      "photo":"../../src/assets/images/house.jpg",
       "favorite":false
     },
     {
@@ -20,6 +21,7 @@
       "surface":270,
       "monthly_rental_cost":500,
       "rating":2.0,
+      "photo":"../../src/assets/images/house.jpg",
       "favorite":false
     },
     {
@@ -31,6 +33,7 @@
       "surface":260,
       "monthly_rental_cost":700,
       "rating":1.0,
+      "photo":"../../src/assets/images/house.jpg",
       "favorite":false
     },
     {
@@ -42,6 +45,7 @@
       "surface":250,
       "monthly_rental_cost":600,
       "rating":4.0,
+      "photo":"../../src/assets/images/house.jpg",
       "favorite":false
     },
     {
@@ -53,6 +57,7 @@
       "surface":240,
       "monthly_rental_cost":500,
       "rating":3.0,
+      "photo":"../../src/assets/images/house.jpg",
       "favorite":false
     },
     {
@@ -64,6 +69,7 @@
       "surface":230,
       "monthly_rental_cost":440,
       "rating":4.7,
+      "photo":"../../src/assets/images/house.jpg",
       "favorite":false
     }
   ]

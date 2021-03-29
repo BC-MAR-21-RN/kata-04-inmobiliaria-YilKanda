@@ -1,9 +1,8 @@
 import React from 'react'
 import { SafeAreaView, FlatList, StyleSheet, Text, View, ImageBackground } from 'react-native'
-import CrossPlatformIcon from 'react-native-cross-platform-icons'
-import { styles } from './styles'
+import { AppStyles } from '../../src/assets/styles/AppStyles'
 import { Item } from './Item'
-import data from './db.json'
+import data from '../../src/data/db.json'
 
 const App = () => {
   const renderItem = ({ item }) => (
@@ -11,7 +10,7 @@ const App = () => {
   )
 
   return (
-    <SafeAreaView style={ styles.container }>
+    <SafeAreaView style={ AppStyles.container }>
       <FlatList
         data = { data.houses }
         renderItem = { renderItem }
