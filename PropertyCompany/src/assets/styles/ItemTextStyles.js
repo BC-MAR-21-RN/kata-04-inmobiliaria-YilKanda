@@ -31,8 +31,16 @@ const ItemTextStyles = StyleSheet.create({
     fontSize: 18,
     fontWeight: 'bold',
   },
+  touchable: {
+    position: 'absolute',
+    alignItems: 'flex-end',
+    alignContent: 'flex-end',
+    marginRight: 10,
+    right: 0,
+    bottom: 0
+  },
   favorite: {
-    textAlign: 'right'
+    resizeMode: 'contain'
   }
 })
 
