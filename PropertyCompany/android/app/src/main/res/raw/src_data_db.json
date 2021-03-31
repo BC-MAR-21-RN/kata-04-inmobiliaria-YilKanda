@@ -1,0 +1,76 @@
+{
+  "houses":[
+    {
+      "id":1,
+      "name":"Simpson House",
+      "address":"742 Evergreen Terrace, Springfield",
+      "number_rooms":1,
+      "number_bathrooms":2,
+      "surface":280,
+      "monthly_rental_cost":400,
+      "rating":5.0,
+      "photo":"../../src/assets/images/house.jpg",
+      "favorite":false
+    },
+    {
+      "id":2,
+      "name":"Griffin House",
+      "address":"31 Spooner Street, Providence, RI",
+      "number_rooms":2,
+      "number_bathrooms":2,
+      "surface":270,
+      "monthly_rental_cost":500,
+      "rating":2.0,
+      "photo":"../../src/assets/images/house.jpg",
+      "favorite":false
+    },
+    {
+      "id":3,
+      "name":"Smith House",
+      "address":"570 Wilshire Blvd, Los Angeles, CA",
+      "number_rooms":2,
+      "number_bathrooms":3,
+      "surface":260,
+      "monthly_rental_cost":700,
+      "rating":1.0,
+      "photo":"../../src/assets/images/house.jpg",
+      "favorite":false
+    },
+    {
+      "id":4,
+      "name":"Shortman House",
+      "address":"4040 Vine Street, Riverside, CA",
+      "number_rooms":2,
+      "number_bathrooms":1,
+      "surface":250,
+      "monthly_rental_cost":600,
+      "rating":4.0,
+      "photo":"../../src/assets/images/house.jpg",
+      "favorite":false
+    },
+    {
+      "id":5,
+      "name":"Parker House",
+      "address":"20 Ingram Street, Flushing, NY",
+      "number_rooms":2,
+      "number_bathrooms":1,
+      "surface":240,
+      "monthly_rental_cost":500,
+      "rating":3.0,
+      "photo":"../../src/assets/images/house.jpg",
+      "favorite":false
+    },
+    {
+      "id":6,
+      "name":"The Willows",
+      "address":"3517 W. Gray St. Utica",
+      "number_rooms":3,
+      "number_bathrooms":2,
+      "surface":230,
+      "monthly_rental_cost":440,
+      "rating":4.7,
+      "photo":"../../src/assets/images/house.jpg",
+      "favorite":false
+    }
+  ]
+}
